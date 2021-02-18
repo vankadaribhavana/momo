@@ -31,10 +31,10 @@
   [github](https://githublogo.com/)
   
   **Table**
-  |Name|Branch|College|
-  |-----|-----|------|
-  |abc|cse|vrsec|
-  |dfe|cse|vrsec|
+  Name|Branch|College
+  -----|-----|------
+  abc|cse|vrsec
+  dfe|cse|vrsec
   
   **code**
   ```
@@ -49,6 +49,8 @@
  
  **Emoji**
  :v:
+ :sunglasses:
+ 
  
  
  
